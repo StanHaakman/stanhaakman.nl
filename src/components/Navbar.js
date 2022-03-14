@@ -30,7 +30,7 @@ function Navbar(props) {
 
           <div className={"menu-trigger relative h-10 w-10 m-2"}>
               <span className="
-              line w-10 bg-black h-1 absolute top-1/2 m-auto dark:bg-white
+              line w-10 bg-black h-1 absolute top-1/2 m-auto dark:bg-white origin-center
 
               before:w-4 before:absolute before:bg-black before:h-1 before:-top-3 before:dark:bg-white
 
