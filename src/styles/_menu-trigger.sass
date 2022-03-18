@@ -1,0 +1,41 @@
+.menu-trigger
+  .lines
+    .line
+      height: 4px
+      transform: translateY(-50%)
+      transition: all .2s cubic-bezier(.74,-0.01,.38,.99)
+      margin: 4px 0
+      border-radius: 2px
+      &.top-line
+        top: 25%
+        width: 18px
+        transform-origin: center
+
+      &.middle-line
+        top: 50%
+        width: 40px
+        transform-origin: center
+        display: flex
+        justify-content: space-between
+        align-content: center
+
+      &.bottom-line
+        top: 75%
+        width: 30px
+        transform-origin: center
+
+  &.open
+    .lines
+      .line
+        transition: all .2s cubic-bezier(.74,-0.01,.38,.99)
+        &.top-line
+          width: 50%
+          transform: translate(3px, 3px) rotatez(45deg)
+
+        &.middle-line
+          transform: rotate(-45deg)
+
+        &.bottom-line
+          width: 50%
+          transform: translate(16px, -4px) rotatez(45deg)
+          transform-origin: bottom

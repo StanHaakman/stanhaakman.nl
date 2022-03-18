@@ -948,6 +948,8 @@ module.exports = {
     'focus-visible',
     'active',
     'disabled',
+    'open',
+    'closed',
   ],
   plugins: [],
 }
