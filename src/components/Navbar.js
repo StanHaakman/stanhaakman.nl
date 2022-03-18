@@ -12,7 +12,7 @@ function Navbar(props) {
     const [menu, setMenu] = useState('closed');
 
     return (
-      <nav className={"nav fixed top-0 flex w-full px-10 sm:px-5 py-5 justify-between items-center z-10 " + menu}>
+      <nav className={"nav fixed top-0 flex w-full px-5 sm:px-10 py-5 justify-between items-center z-10 " + menu}>
           <span onClick={() => setTheme(colorTheme)} className="switcher relative justify-center items-center cursor-pointer h-fit">
               <img src={switcher} alt="" className=""/>
               <img className="absolute top-1/2 -translate-y-1/2 left-1 dark:left-auto dark:right-1 transition-all opacity-0 dark:opacity-100" src={moon} alt=""/>
