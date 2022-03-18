@@ -34,9 +34,9 @@ function Navbar(props) {
 
           <div className={"menu-trigger relative h-10 w-10 m-2 open:bg-black " + menu} onClick={() => setMenu((menu === 'open') ? 'closed' : 'open')}>
             <div className="lines relative h-full w-full">
-                <div className="line top-line    absolute bg-black"/>
-                <div className="line middle-line absolute bg-black"/>
-                <div className="line bottom-line absolute bg-black"/>
+                <div className="line top-line    absolute bg-black dark:bg-white"/>
+                <div className="line middle-line absolute bg-black dark:bg-white"/>
+                <div className="line bottom-line absolute bg-black dark:bg-white"/>
             </div>
           </div>
       </nav>
