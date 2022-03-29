@@ -40,7 +40,9 @@ module.exports = {
       fuchsia: colors.fuchsia,
       pink: colors.pink,
       rose: colors.rose,
-      darkBg: '#010112'
+      darkBg: '#010112',
+      darkContainer: "#525252",
+      lightContainer: "#EEEEEE",
     }),
     columns: {
       auto: 'auto',
@@ -106,6 +108,8 @@ module.exports = {
       72: '18rem',
       80: '20rem',
       96: '24rem',
+      '50vh': '50vh',
+      '75vh': '75vh'
     },
     animation: {
       none: 'none',

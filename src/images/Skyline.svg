@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1075px" height="482px" viewBox="0 0 1075 482" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Skyline</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Skyline" transform="translate(0.000000, 0.000000)">
+            <g id="building_8" transform="translate(783.000000, 112.000000)">
+                <polygon id="building" fill="#000000" points="4.01136305 77.6095087 15.01528 77.6095087 15.01528 57.4849735 29.7564443 57.4849735 29.7564443 45 70.7136203 45 70.7136203 57.4849735 75.59453 57.4849735 75.59453 77.6095087 80.6359324 77.6095087 80.6359324 308.498402 83 308.498402 83 343 0 343 1.39881045e-16 308.498402 4.01136305 308.498402"></polygon>
+                <rect id="building" fill="#000000" transform="translate(60.000000, 40.500000) scale(-1, 1) translate(-60.000000, -40.500000) " x="59" y="34" width="2" height="13"></rect>
+                <rect id="building" fill="#000000" transform="translate(48.000000, 23.500000) scale(-1, 1) translate(-48.000000, -23.500000) " x="47" y="0" width="2" height="47"></rect>
+                <rect id="window" fill="#FFFFFF" x="14" y="88" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="29" y="88" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="44" y="88" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="59" y="88" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="14" y="104" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="29" y="104" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="44" y="104" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="59" y="104" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="14" y="119" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="29" y="119" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="44" y="119" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="59" y="119" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="14" y="134" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="29" y="134" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="44" y="134" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="59" y="134" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="14" y="150" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="29" y="150" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="44" y="150" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="59" y="150" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="14" y="165" width="10" height="10"></rect>
+                <rect id="window" fill="#9F9B9B" x="29" y="165" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="44" y="165" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" x="59" y="165" width="10" height="10"></rect>
+            </g>
+            <g id="building_0" transform="translate(442.000000, 181.962410)">
+                <polygon id="building" fill="#000000" points="0 68.0375896 17.3974278 68.0375896 17.3974278 60.0672958 26.1977803 60.0672958 26.1977803 53.1227132 32.2007115 53.1227132 32.2007115 0 36 0 36 53.1227132 39.7801841 53.1227132 39.7801841 60.0672958 59.1840131 60.0672958 59.1840131 68.0375896 72 68.0375896 72 299.03759 0 299.03759"></polygon>
+                <rect id="window" fill="#FFFFFF" x="10" y="74.0375896" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="20" y="74.0375896" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="29" y="74.0375896" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="39" y="74.0375896" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="48" y="74.0375896" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="58" y="74.0375896" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="10" y="94.0375896" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="20" y="94.0375896" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="29" y="94.0375896" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="39" y="94.0375896" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="48" y="94.0375896" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="58" y="94.0375896" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="10" y="114.03759" width="5" height="14"></rect>
+                <rect id="window" fill="#FFFFFF" x="20" y="114.03759" width="5" height="14"></rect>
+                <rect id="window" fill="#FFFFFF" x="29" y="114.03759" width="5" height="14"></rect>
+                <rect id="window" fill="#FFFFFF" x="39" y="114.03759" width="5" height="14"></rect>
+                <rect id="window" fill="#FFFFFF" x="48" y="114.03759" width="5" height="14"></rect>
+                <rect id="window" fill="#FFFFFF" x="58" y="114.03759" width="5" height="14"></rect>
+                <rect id="window" fill="#FFFFFF" x="10" y="134.03759" width="5" height="14"></rect>
+                <rect id="window" fill="#FFFFFF" x="20" y="134.03759" width="5" height="14"></rect>
+                <rect id="window" fill="#FFFFFF" x="29" y="134.03759" width="5" height="14"></rect>
+                <rect id="window" fill="#FFFFFF" x="39" y="134.03759" width="5" height="14"></rect>
+                <rect id="window" fill="#FFFFFF" x="48" y="134.03759" width="5" height="14"></rect>
+                <rect id="window" fill="#FFFFFF" x="58" y="134.03759" width="5" height="14"></rect>
+                <rect id="window" fill="#FFFFFF" x="10" y="156.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="20" y="156.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="29" y="156.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="39" y="156.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="48" y="156.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="58" y="156.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="10" y="176.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="20" y="176.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="29" y="176.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="39" y="176.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="48" y="176.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="58" y="176.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="10" y="196.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="20" y="196.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="29" y="196.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="39" y="196.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="48" y="196.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="58" y="196.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="10" y="216.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="20" y="216.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="29" y="216.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="39" y="216.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="48" y="216.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="58" y="216.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="10" y="236.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="20" y="236.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="29" y="236.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="39" y="236.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="48" y="236.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="58" y="236.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="10" y="256.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="20" y="256.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="29" y="256.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="39" y="256.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="48" y="256.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="58" y="256.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="10" y="276.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="20" y="276.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="29" y="276.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="39" y="276.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="48" y="276.03759" width="5" height="12"></rect>
+                <rect id="window" fill="#FFFFFF" x="58" y="276.03759" width="5" height="12"></rect>
+            </g>
+            <g id="building_9" transform="translate(909.000000, 297.000000)">
+                <polygon id="building" fill="#000000" points="2.46481344 20.1347302 9.22625637 20.1347302 9.22625637 7.70884271 18.2840802 7.70884271 18.2840802 6.51145804e-14 43.4505377 0 43.4505377 7.70884271 46.449651 7.70884271 46.449651 20.1347302 49.5473802 20.1347302 49.5473802 162.697 51 162.697 51 184 0 184 8.59510035e-17 162.697 2.46481344 162.697"></polygon>
+                <rect id="window" fill="#FFFFFF" x="7" y="27" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="17" y="27" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="26" y="27" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="36" y="27" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="7" y="36" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="17" y="36" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="26" y="36" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="36" y="36" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="7" y="46" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="17" y="46" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="26" y="46" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="36" y="46" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="7" y="55" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="17" y="55" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="26" y="55" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="36" y="55" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="7" y="64" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="17" y="64" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="26" y="64" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="36" y="64" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="7" y="74" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="17" y="74" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="26" y="74" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="36" y="74" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="7" y="83" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="17" y="83" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="26" y="83" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="36" y="83" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="7" y="93" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="17" y="93" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="26" y="93" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="36" y="93" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="7" y="102" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="17" y="102" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="26" y="102" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="36" y="102" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="7" y="112" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="17" y="112" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="26" y="112" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="36" y="112" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="7" y="121" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="17" y="121" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="26" y="121" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="36" y="121" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="7" y="130" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="17" y="130" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="26" y="130" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="36" y="130" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="7" y="140" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="17" y="140" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="26" y="140" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="36" y="140" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="7" y="149" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="17" y="149" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="26" y="149" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" x="36" y="149" width="8" height="8"></rect>
+            </g>
+            <g id="building_4" transform="translate(82.102564, 297.000000)">
+                <polygon id="building" fill="#000000" transform="translate(25.500000, 92.000000) scale(-1, 1) translate(-25.500000, -92.000000) " points="2.46481344 20.1347302 9.22625637 20.1347302 9.22625637 7.70884271 18.2840802 7.70884271 18.2840802 6.51145804e-14 43.4505377 0 43.4505377 7.70884271 46.449651 7.70884271 46.449651 20.1347302 49.5473802 20.1347302 49.5473802 162.697 51 162.697 51 184 0 184 8.59510035e-17 162.697 2.46481344 162.697"></polygon>
+                <rect id="window" fill="#FFFFFF" transform="translate(40.000000, 31.000000) scale(-1, 1) translate(-40.000000, -31.000000) " x="36" y="27" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(30.000000, 31.000000) scale(-1, 1) translate(-30.000000, -31.000000) " x="26" y="27" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(21.000000, 31.000000) scale(-1, 1) translate(-21.000000, -31.000000) " x="17" y="27" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(11.000000, 31.000000) scale(-1, 1) translate(-11.000000, -31.000000) " x="7" y="27" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(40.000000, 40.000000) scale(-1, 1) translate(-40.000000, -40.000000) " x="36" y="36" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(30.000000, 40.000000) scale(-1, 1) translate(-30.000000, -40.000000) " x="26" y="36" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(21.000000, 40.000000) scale(-1, 1) translate(-21.000000, -40.000000) " x="17" y="36" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(11.000000, 40.000000) scale(-1, 1) translate(-11.000000, -40.000000) " x="7" y="36" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(40.000000, 50.000000) scale(-1, 1) translate(-40.000000, -50.000000) " x="36" y="46" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(30.000000, 50.000000) scale(-1, 1) translate(-30.000000, -50.000000) " x="26" y="46" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(21.000000, 50.000000) scale(-1, 1) translate(-21.000000, -50.000000) " x="17" y="46" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(11.000000, 50.000000) scale(-1, 1) translate(-11.000000, -50.000000) " x="7" y="46" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(40.000000, 59.000000) scale(-1, 1) translate(-40.000000, -59.000000) " x="36" y="55" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(30.000000, 59.000000) scale(-1, 1) translate(-30.000000, -59.000000) " x="26" y="55" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(21.000000, 59.000000) scale(-1, 1) translate(-21.000000, -59.000000) " x="17" y="55" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(11.000000, 59.000000) scale(-1, 1) translate(-11.000000, -59.000000) " x="7" y="55" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(40.000000, 68.000000) scale(-1, 1) translate(-40.000000, -68.000000) " x="36" y="64" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(30.000000, 68.000000) scale(-1, 1) translate(-30.000000, -68.000000) " x="26" y="64" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(21.000000, 68.000000) scale(-1, 1) translate(-21.000000, -68.000000) " x="17" y="64" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(11.000000, 68.000000) scale(-1, 1) translate(-11.000000, -68.000000) " x="7" y="64" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(40.000000, 78.000000) scale(-1, 1) translate(-40.000000, -78.000000) " x="36" y="74" width="8" height="8"></rect>
+                <rect id="window" fill="#9F9B9B" transform="translate(30.000000, 78.000000) scale(-1, 1) translate(-30.000000, -78.000000) " x="26" y="74" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(21.000000, 78.000000) scale(-1, 1) translate(-21.000000, -78.000000) " x="17" y="74" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(11.000000, 78.000000) scale(-1, 1) translate(-11.000000, -78.000000) " x="7" y="74" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(40.000000, 87.000000) scale(-1, 1) translate(-40.000000, -87.000000) " x="36" y="83" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(30.000000, 87.000000) scale(-1, 1) translate(-30.000000, -87.000000) " x="26" y="83" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(21.000000, 87.000000) scale(-1, 1) translate(-21.000000, -87.000000) " x="17" y="83" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(11.000000, 87.000000) scale(-1, 1) translate(-11.000000, -87.000000) " x="7" y="83" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(40.000000, 97.000000) scale(-1, 1) translate(-40.000000, -97.000000) " x="36" y="93" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(30.000000, 97.000000) scale(-1, 1) translate(-30.000000, -97.000000) " x="26" y="93" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(21.000000, 97.000000) scale(-1, 1) translate(-21.000000, -97.000000) " x="17" y="93" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(11.000000, 97.000000) scale(-1, 1) translate(-11.000000, -97.000000) " x="7" y="93" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(40.000000, 106.000000) scale(-1, 1) translate(-40.000000, -106.000000) " x="36" y="102" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(30.000000, 106.000000) scale(-1, 1) translate(-30.000000, -106.000000) " x="26" y="102" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(21.000000, 106.000000) scale(-1, 1) translate(-21.000000, -106.000000) " x="17" y="102" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(11.000000, 106.000000) scale(-1, 1) translate(-11.000000, -106.000000) " x="7" y="102" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(40.000000, 116.000000) scale(-1, 1) translate(-40.000000, -116.000000) " x="36" y="112" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(30.000000, 116.000000) scale(-1, 1) translate(-30.000000, -116.000000) " x="26" y="112" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(21.000000, 116.000000) scale(-1, 1) translate(-21.000000, -116.000000) " x="17" y="112" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(11.000000, 116.000000) scale(-1, 1) translate(-11.000000, -116.000000) " x="7" y="112" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(40.000000, 125.000000) scale(-1, 1) translate(-40.000000, -125.000000) " x="36" y="121" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(30.000000, 125.000000) scale(-1, 1) translate(-30.000000, -125.000000) " x="26" y="121" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(21.000000, 125.000000) scale(-1, 1) translate(-21.000000, -125.000000) " x="17" y="121" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(11.000000, 125.000000) scale(-1, 1) translate(-11.000000, -125.000000) " x="7" y="121" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(40.000000, 134.000000) scale(-1, 1) translate(-40.000000, -134.000000) " x="36" y="130" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(30.000000, 134.000000) scale(-1, 1) translate(-30.000000, -134.000000) " x="26" y="130" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(21.000000, 134.000000) scale(-1, 1) translate(-21.000000, -134.000000) " x="17" y="130" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(11.000000, 134.000000) scale(-1, 1) translate(-11.000000, -134.000000) " x="7" y="130" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(40.000000, 144.000000) scale(-1, 1) translate(-40.000000, -144.000000) " x="36" y="140" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(30.000000, 144.000000) scale(-1, 1) translate(-30.000000, -144.000000) " x="26" y="140" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(21.000000, 144.000000) scale(-1, 1) translate(-21.000000, -144.000000) " x="17" y="140" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(11.000000, 144.000000) scale(-1, 1) translate(-11.000000, -144.000000) " x="7" y="140" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(40.000000, 153.000000) scale(-1, 1) translate(-40.000000, -153.000000) " x="36" y="149" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(30.000000, 153.000000) scale(-1, 1) translate(-30.000000, -153.000000) " x="26" y="149" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(21.000000, 153.000000) scale(-1, 1) translate(-21.000000, -153.000000) " x="17" y="149" width="8" height="8"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(11.000000, 153.000000) scale(-1, 1) translate(-11.000000, -153.000000) " x="7" y="149" width="8" height="8"></rect>
+            </g>
+            <g id="building_5" transform="translate(0.000000, 202.000000)">
+                <path d="M4.04218197,61.4560884 L6.54826265,61.4560884 L6.54826265,43.2580692 L10.9309183,43.2580692 L10.9309183,36.6397834 L19.1036025,36.6397834 L19.1036025,29 L36.4240917,29 L36.4240917,36.6397834 L44.1367952,36.6397834 L44.1367952,43.2580692 L49.2013387,43.2580692 L49.2013387,38.5070648 L61.582215,38.5070648 L61.582215,43.2580692 L67.3582049,43.2580692 L67.3582049,61.4560884 L68.7081512,61.4560884 L68.7081512,267.39009 L71,267.39009 L71,279 L0,279 L0,267.886211 C1.50717016,267.886211 2.26075524,267.886211 2.26075524,267.886211 C2.25911126,267.886211 2.25911126,201.609534 2.26075524,69.0561788 L4.04218197,69.0561788 L4.04218197,61.4560884 Z" id="building" fill="#000000"></path>
+                <rect id="building" fill="#000000" x="27" y="0" width="2" height="45"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="39" y="248" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="39" y="236" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="39" y="225" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="39" y="260" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="39" y="213" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="39" y="190" width="25" height="7"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="39" y="178" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="39" y="202" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="39" y="167" width="25" height="7"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="39" y="143" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="39" y="132" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="39" y="155" width="25" height="7"></rect>
+                <rect id="window" fill="#FFFFFF" x="39" y="120" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="39" y="97" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="39" y="85" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="39" y="108" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="39" y="74" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="10" y="248" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="10" y="236" width="25" height="7"></rect>
+                <rect id="window" fill="#FFFFFF" x="10" y="225" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="10" y="260" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="10" y="213" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="10" y="190" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="10" y="178" width="25" height="7"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="10" y="202" width="25" height="7"></rect>
+                <rect id="window" fill="#FFFFFF" x="10" y="167" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="10" y="143" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="10" y="132" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="10" y="155" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="10" y="120" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="10" y="97" width="25" height="7"></rect>
+                <rect id="window" fill="#FFFFFF" x="10" y="85" width="25" height="7"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="10" y="108" width="25" height="7"></rect>
+                <rect id="window" fill="#F6F6F6" x="10" y="74" width="25" height="7"></rect>
+            </g>
+            <g id="building_7" transform="translate(749.451822, 272.070734)">
+                <polygon id="building" fill="#000000" points="8.54817787 6.92926621 15.9562207 6.92926621 15.9562207 3.67789862 29.1103393 3.67789862 29.1103393 6.92926621 35.5051143 6.92926621 35.5051143 0 82.500539 0 82.500539 6.92926621 105.991681 6.92926621 105.991681 0 137.664576 0 137.664576 4.78943708 143.140818 4.78943708 143.140818 6.92926621 150.548178 6.92926621 150.548178 209.929266 0 209.864049 0 108.429266 2.66906371 108.429266 2.66906371 103.097979 8.54817787 103.097979"></polygon>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="185.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="190.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="195.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="110.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="115.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="120.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="125.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="130.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="135.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="140.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="145.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="150.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="155.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="160.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="165.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="170.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="175.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="6.54817787" y="180.929266" width="27" height="2"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="97.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="195.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="190.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="185.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="180.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="175.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="170.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="165.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="160.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="155.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="150.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="145.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="140.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="135.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="130.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="125.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="120.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="115.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="37.5481779" y="110.929266" width="55" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="16.9292662" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="23.9292662" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="30.9292662" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="37.9292662" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="44.9292662" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="51.9292662" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="58.9292662" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="65.9292662" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="72.9292662" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="79.9292662" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="86.9292662" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="93.9292662" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="100.929266" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="107.929266" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="114.929266" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="121.929266" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="128.929266" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="135.929266" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="142.929266" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="149.929266" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="156.929266" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="163.929266" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="170.929266" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="177.929266" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="102.548178" y="184.929266" width="44" height="4"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="99.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="92.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="94.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="87.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="89.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="82.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="84.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="77.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="79.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="72.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="74.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="67.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="69.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="62.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="64.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="57.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="59.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="52.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="54.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="47.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="49.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="42.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="44.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="37.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="39.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="32.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="34.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="27.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="29.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.5481779" y="22.9292662" width="37" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="24.9292662" width="38" height="3"></rect>
+                <rect id="window" fill="#FFFFFF" x="14.5481779" y="19.9292662" width="38" height="3"></rect>
+            </g>
+            <g id="building_2" transform="translate(338.000000, 38.000000)">
+                <path d="M6.37639972,97.5402683 L10.3296538,97.5402683 L10.3296538,68.6418139 L17.2431388,68.6418139 L17.2431388,58.1319761 L30.1352603,58.1319761 L30.1352603,46 L57.4577221,46 L57.4577221,58.1319761 L69.6242404,58.1319761 L69.6242404,68.6418139 L77.6133794,68.6418139 L77.6133794,61.0972188 L97.1437758,61.0972188 L97.1437758,68.6418139 L106.255196,68.6418139 L106.255196,97.5402683 L108.384689,97.5402683 L108.384689,424.563463 L112,424.563463 L112,443 L0,443 L0,425.351304 C2.37750786,425.351304 3.56626179,425.351304 3.56626179,425.351304 C3.56366847,425.351304 3.56366847,320.10394 3.56626179,109.609212 L6.37639972,109.609212 L6.37639972,97.5402683 Z" id="building" fill="#000000"></path>
+                <rect id="building" fill="#000000" x="42" y="0" width="3" height="72"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="59" y="325" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="311" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="297" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="339" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="283" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="255" width="41" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="59" y="241" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="269" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="227" width="41" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="59" y="199" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="185" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="213" width="41" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="59" y="171" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="143" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="129" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="157" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="115" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="13" y="325" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="13" y="311" width="41" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="13" y="297" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="13" y="339" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="13" y="283" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="13" y="255" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="13" y="241" width="41" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="13" y="269" width="41" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="13" y="227" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="13" y="199" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="13" y="185" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="13" y="213" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="13" y="171" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="13" y="143" width="41" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="13" y="129" width="41" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="13" y="157" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="13" y="115" width="41" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="59" y="409" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="381" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="367" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="395" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="59" y="353" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="13" y="409" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="13" y="381" width="41" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="13" y="367" width="41" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="13" y="395" width="41" height="9"></rect>
+                <rect id="window" fill="#F6F6F6" x="13" y="353" width="41" height="9"></rect>
+            </g>
+            <g id="building_1" transform="translate(502.281150, -0.000000)">
+                <polygon id="building" fill="#000000" points="7.18448472 110.296877 14.4172559 110.296877 14.4172559 81.891131 28.0204869 81.891131 28.0204869 63.1461763 35.4370951 63.1461763 35.4370951 58.1304734 52.8937792 58.1304734 52.8937792 54 68.8188358 54 68.8188358 58.1304734 77.7218451 58.1304734 77.7218451 63.1461763 82.8410948 63.1461763 82.8410948 67.8369041 93.2969661 67.8369041 93.2969661 90.9395555 99.8509263 90.9395555 99.8509263 410.268699 109 410.268699 109 481 -4.69791132e-14 481 -4.69791132e-14 410.268699 7.18448472 410.268699"></polygon>
+                <rect id="building" fill="#000000" x="86" y="0" width="2" height="80"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="366.736842" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="405.333333" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="374.45614" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="389.894737" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="397.614035" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="382.175439" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="366.736842" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="405.333333" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="374.45614" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="389.894737" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="34.2373684" y="397.614035" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="382.175439" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="366.736842" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="405.333333" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="374.45614" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="389.894737" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="397.614035" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="382.175439" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="55.7558869" y="366.736842" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="55.7558869" y="405.333333" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="374.45614" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="389.894737" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="397.614035" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="382.175439" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="366.736842" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="405.333333" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="374.45614" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="389.894737" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="397.614035" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="382.175439" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="366.736842" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="405.333333" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="77.2744054" y="374.45614" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="389.894737" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="397.614035" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="382.175439" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="320.421053" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="359.017544" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="328.140351" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="343.578947" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="351.298246" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="335.859649" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="320.421053" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="359.017544" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="328.140351" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="343.578947" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="34.2373684" y="351.298246" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="335.859649" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="320.421053" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="359.017544" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="44.9966276" y="328.140351" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="343.578947" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="351.298246" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="335.859649" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="320.421053" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="359.017544" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="328.140351" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="343.578947" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="351.298246" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="335.859649" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="320.421053" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="359.017544" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="328.140351" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="343.578947" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="351.298246" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="335.859649" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="320.421053" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="359.017544" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="328.140351" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="77.2744054" y="343.578947" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="351.298246" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="335.859649" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="274.105263" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="312.701754" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="281.824561" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="297.263158" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="23.4781091" y="304.982456" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="289.54386" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="274.105263" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="312.701754" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="281.824561" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="297.263158" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="304.982456" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="289.54386" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="44.9966276" y="274.105263" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="312.701754" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="281.824561" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="297.263158" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="304.982456" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="289.54386" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="274.105263" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="312.701754" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="281.824561" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="297.263158" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="304.982456" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="55.7558869" y="289.54386" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="274.105263" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="66.5151461" y="312.701754" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="281.824561" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="297.263158" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="304.982456" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="289.54386" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="274.105263" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="312.701754" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="281.824561" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="297.263158" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="304.982456" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="289.54386" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="227.789474" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="266.385965" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="235.508772" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="250.947368" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="258.666667" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="243.22807" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="227.789474" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="266.385965" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="235.508772" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="250.947368" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="258.666667" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="34.2373684" y="243.22807" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="44.9966276" y="227.789474" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="266.385965" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="235.508772" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="250.947368" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="258.666667" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="243.22807" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="227.789474" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="266.385965" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="235.508772" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="250.947368" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="258.666667" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="243.22807" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="227.789474" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="266.385965" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="235.508772" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="250.947368" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="66.5151461" y="258.666667" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="243.22807" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="227.789474" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="266.385965" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="235.508772" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="250.947368" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="258.666667" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="243.22807" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="23.4781091" y="181.473684" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="220.070175" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="189.192982" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="204.631579" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="212.350877" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="196.912281" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="181.473684" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="220.070175" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="189.192982" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="204.631579" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="212.350877" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="196.912281" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="181.473684" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="220.070175" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="189.192982" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="44.9966276" y="204.631579" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="212.350877" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="196.912281" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="181.473684" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="220.070175" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="55.7558869" y="189.192982" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="204.631579" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="212.350877" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="196.912281" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="181.473684" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="66.5151461" y="220.070175" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="189.192982" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="204.631579" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="212.350877" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="196.912281" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="181.473684" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="220.070175" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="189.192982" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="204.631579" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="212.350877" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="196.912281" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="135.157895" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="173.754386" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="142.877193" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="158.315789" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="166.035088" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="150.596491" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="135.157895" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="173.754386" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="34.2373684" y="142.877193" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="158.315789" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="166.035088" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="150.596491" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="135.157895" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="173.754386" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="142.877193" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="158.315789" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="44.9966276" y="166.035088" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="150.596491" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="135.157895" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="173.754386" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="142.877193" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="158.315789" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="166.035088" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="55.7558869" y="150.596491" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="135.157895" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="173.754386" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="142.877193" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="158.315789" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="166.035088" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="150.596491" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="135.157895" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="173.754386" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="142.877193" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="158.315789" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="77.2744054" y="166.035088" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="150.596491" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="23.4781091" y="127.438596" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="112" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="119.719298" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="127.438596" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="112" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="119.719298" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="127.438596" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="112" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="44.9966276" y="119.719298" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="127.438596" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="112" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="119.719298" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="127.438596" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="66.5151461" y="112" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="119.719298" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="127.438596" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="112" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="119.719298" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="420.77193" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="23.4781091" y="459.368421" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="428.491228" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="443.929825" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="23.4781091" y="451.649123" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="23.4781091" y="436.210526" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="420.77193" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="459.368421" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="428.491228" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="443.929825" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="451.649123" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="34.2373684" y="436.210526" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="420.77193" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="459.368421" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="428.491228" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="44.9966276" y="443.929825" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="451.649123" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="44.9966276" y="436.210526" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="420.77193" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="459.368421" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="55.7558869" y="428.491228" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="443.929825" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="451.649123" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="55.7558869" y="436.210526" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="420.77193" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="459.368421" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="428.491228" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="443.929825" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="451.649123" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="66.5151461" y="436.210526" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="420.77193" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="77.2744054" y="459.368421" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="428.491228" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="443.929825" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="451.649123" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="77.2744054" y="436.210526" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="88.0336647" y="420.77193" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="88.0336647" y="459.368421" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="88.0336647" y="428.491228" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="88.0336647" y="443.929825" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="88.0336647" y="451.649123" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="88.0336647" y="436.210526" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="12.7188498" y="420.77193" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="12.7188498" y="459.368421" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="12.7188498" y="428.491228" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="12.7188498" y="443.929825" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="12.7188498" y="451.649123" width="7.68518519" height="4.63157895"></rect>
+                <rect id="window" fill="#FFFFFF" x="12.7188498" y="436.210526" width="7.68518519" height="4.63157895"></rect>
+            </g>
+            <g id="building_10" transform="translate(976.000000, 245.000000)">
+                <path d="M5.6362819,30.6385474 L9.13067609,30.6385474 L9.13067609,13.4596173 L15.241703,13.4596173 L15.241703,7.21195555 L26.6374176,7.21195555 L26.6374176,0 L50.7885222,0 L50.7885222,7.21195555 L61.5428553,7.21195555 L61.5428553,13.4596173 L68.6046836,13.4596173 L68.6046836,8.97466913 L85.8681589,8.97466913 L85.8681589,13.4596173 L93.922004,13.4596173 L93.922004,30.6385474 L95.8043235,30.6385474 L95.8043235,225.040245 L99,225.040245 L99,236 L0,236 L0,225.508584 C2.10154713,225.508584 3.15232069,225.508584 3.15232069,225.508584 C3.15002838,225.508584 3.15002838,162.9434 3.15232069,37.8130328 L5.6362819,37.8130328 L5.6362819,30.6385474 Z" id="building" fill="#000000"></path>
+                <rect id="window" fill="#F6F6F6" x="53" y="194" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="53" y="184" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="53" y="174" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="53" y="204" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="53" y="164" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="53" y="144" width="32" height="6"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="53" y="134" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="53" y="154" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="53" y="124" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="53" y="104" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="53" y="94" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="53" y="114" width="32" height="6"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="53" y="84" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="53" y="64" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="53" y="54" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="53" y="74" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="53" y="44" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="18" y="194" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="18" y="184" width="32" height="6"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="18" y="174" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="18" y="204" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="18" y="164" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="18" y="144" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="18" y="134" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="18" y="154" width="32" height="6"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="18" y="124" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="18" y="104" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="18" y="94" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="18" y="114" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="18" y="84" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="18" y="64" width="32" height="6"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="18" y="54" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="18" y="74" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" x="18" y="44" width="32" height="6"></rect>
+            </g>
+            <g id="building_4" transform="translate(145.000000, 245.000000)">
+                <path d="M5.6362819,30.6385474 L9.13067609,30.6385474 L9.13067609,13.4596173 L15.241703,13.4596173 L15.241703,7.21195555 L26.6374176,7.21195555 L26.6374176,0 L50.7885222,0 L50.7885222,7.21195555 L61.5428553,7.21195555 L61.5428553,13.4596173 L68.6046836,13.4596173 L68.6046836,8.97466913 L85.8681589,8.97466913 L85.8681589,13.4596173 L93.922004,13.4596173 L93.922004,30.6385474 L95.8043235,30.6385474 L95.8043235,225.040245 L99,225.040245 L99,236 L0,236 L0,225.508584 C2.10154713,225.508584 3.15232069,225.508584 3.15232069,225.508584 C3.15002838,225.508584 3.15002838,162.9434 3.15232069,37.8130328 L5.6362819,37.8130328 L5.6362819,30.6385474 Z" id="building" fill="#000000" transform="translate(49.500000, 118.000000) scale(-1, 1) translate(-49.500000, -118.000000) "></path>
+                <rect id="window" fill="#F6F6F6" transform="translate(30.000000, 197.000000) scale(-1, 1) translate(-30.000000, -197.000000) " x="14" y="194" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(30.000000, 187.000000) scale(-1, 1) translate(-30.000000, -187.000000) " x="14" y="184" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(30.000000, 177.000000) scale(-1, 1) translate(-30.000000, -177.000000) " x="14" y="174" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(30.000000, 207.000000) scale(-1, 1) translate(-30.000000, -207.000000) " x="14" y="204" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(30.000000, 167.000000) scale(-1, 1) translate(-30.000000, -167.000000) " x="14" y="164" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(30.000000, 147.000000) scale(-1, 1) translate(-30.000000, -147.000000) " x="14" y="144" width="32" height="6"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(30.000000, 137.000000) scale(-1, 1) translate(-30.000000, -137.000000) " x="14" y="134" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(30.000000, 157.000000) scale(-1, 1) translate(-30.000000, -157.000000) " x="14" y="154" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(30.000000, 127.000000) scale(-1, 1) translate(-30.000000, -127.000000) " x="14" y="124" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(30.000000, 107.000000) scale(-1, 1) translate(-30.000000, -107.000000) " x="14" y="104" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(30.000000, 97.000000) scale(-1, 1) translate(-30.000000, -97.000000) " x="14" y="94" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(30.000000, 117.000000) scale(-1, 1) translate(-30.000000, -117.000000) " x="14" y="114" width="32" height="6"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(30.000000, 87.000000) scale(-1, 1) translate(-30.000000, -87.000000) " x="14" y="84" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(30.000000, 67.000000) scale(-1, 1) translate(-30.000000, -67.000000) " x="14" y="64" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(30.000000, 57.000000) scale(-1, 1) translate(-30.000000, -57.000000) " x="14" y="54" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(30.000000, 77.000000) scale(-1, 1) translate(-30.000000, -77.000000) " x="14" y="74" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(30.000000, 47.000000) scale(-1, 1) translate(-30.000000, -47.000000) " x="14" y="44" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(65.000000, 197.000000) scale(-1, 1) translate(-65.000000, -197.000000) " x="49" y="194" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(65.000000, 187.000000) scale(-1, 1) translate(-65.000000, -187.000000) " x="49" y="184" width="32" height="6"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(65.000000, 177.000000) scale(-1, 1) translate(-65.000000, -177.000000) " x="49" y="174" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(65.000000, 207.000000) scale(-1, 1) translate(-65.000000, -207.000000) " x="49" y="204" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(65.000000, 167.000000) scale(-1, 1) translate(-65.000000, -167.000000) " x="49" y="164" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(65.000000, 147.000000) scale(-1, 1) translate(-65.000000, -147.000000) " x="49" y="144" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(65.000000, 137.000000) scale(-1, 1) translate(-65.000000, -137.000000) " x="49" y="134" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(65.000000, 157.000000) scale(-1, 1) translate(-65.000000, -157.000000) " x="49" y="154" width="32" height="6"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(65.000000, 127.000000) scale(-1, 1) translate(-65.000000, -127.000000) " x="49" y="124" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(65.000000, 107.000000) scale(-1, 1) translate(-65.000000, -107.000000) " x="49" y="104" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(65.000000, 97.000000) scale(-1, 1) translate(-65.000000, -97.000000) " x="49" y="94" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(65.000000, 117.000000) scale(-1, 1) translate(-65.000000, -117.000000) " x="49" y="114" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(65.000000, 87.000000) scale(-1, 1) translate(-65.000000, -87.000000) " x="49" y="84" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(65.000000, 67.000000) scale(-1, 1) translate(-65.000000, -67.000000) " x="49" y="64" width="32" height="6"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(65.000000, 57.000000) scale(-1, 1) translate(-65.000000, -57.000000) " x="49" y="54" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(65.000000, 77.000000) scale(-1, 1) translate(-65.000000, -77.000000) " x="49" y="74" width="32" height="6"></rect>
+                <rect id="window" fill="#F6F6F6" transform="translate(65.000000, 47.000000) scale(-1, 1) translate(-65.000000, -47.000000) " x="49" y="44" width="32" height="6"></rect>
+            </g>
+            <g id="building_3" transform="translate(250.000000, 138.000000)">
+                <polygon id="building" fill="#000000" transform="translate(41.500000, 194.000000) scale(-1, 1) translate(-41.500000, -194.000000) " points="4.01136305 77.6095087 15.01528 77.6095087 15.01528 57.4849735 29.7564443 57.4849735 29.7564443 45 70.7136203 45 70.7136203 57.4849735 75.59453 57.4849735 75.59453 77.6095087 80.6359324 77.6095087 80.6359324 308.498402 83 308.498402 83 343 0 343 1.39881045e-16 308.498402 4.01136305 308.498402"></polygon>
+                <rect id="building" fill="#000000" x="22" y="34" width="2" height="13"></rect>
+                <rect id="building" fill="#000000" x="34" y="0" width="2" height="47"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(64.000000, 93.000000) scale(-1, 1) translate(-64.000000, -93.000000) " x="59" y="88" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(49.000000, 93.000000) scale(-1, 1) translate(-49.000000, -93.000000) " x="44" y="88" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(34.000000, 93.000000) scale(-1, 1) translate(-34.000000, -93.000000) " x="29" y="88" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(19.000000, 93.000000) scale(-1, 1) translate(-19.000000, -93.000000) " x="14" y="88" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(64.000000, 109.000000) scale(-1, 1) translate(-64.000000, -109.000000) " x="59" y="104" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(49.000000, 109.000000) scale(-1, 1) translate(-49.000000, -109.000000) " x="44" y="104" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(34.000000, 109.000000) scale(-1, 1) translate(-34.000000, -109.000000) " x="29" y="104" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(19.000000, 109.000000) scale(-1, 1) translate(-19.000000, -109.000000) " x="14" y="104" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(64.000000, 124.000000) scale(-1, 1) translate(-64.000000, -124.000000) " x="59" y="119" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(49.000000, 124.000000) scale(-1, 1) translate(-49.000000, -124.000000) " x="44" y="119" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(34.000000, 124.000000) scale(-1, 1) translate(-34.000000, -124.000000) " x="29" y="119" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(19.000000, 124.000000) scale(-1, 1) translate(-19.000000, -124.000000) " x="14" y="119" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(64.000000, 139.000000) scale(-1, 1) translate(-64.000000, -139.000000) " x="59" y="134" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(49.000000, 139.000000) scale(-1, 1) translate(-49.000000, -139.000000) " x="44" y="134" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(34.000000, 139.000000) scale(-1, 1) translate(-34.000000, -139.000000) " x="29" y="134" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(19.000000, 139.000000) scale(-1, 1) translate(-19.000000, -139.000000) " x="14" y="134" width="10" height="10"></rect>
+                <rect id="window" fill="#9F9B9B" transform="translate(64.000000, 155.000000) scale(-1, 1) translate(-64.000000, -155.000000) " x="59" y="150" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(49.000000, 155.000000) scale(-1, 1) translate(-49.000000, -155.000000) " x="44" y="150" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(34.000000, 155.000000) scale(-1, 1) translate(-34.000000, -155.000000) " x="29" y="150" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(19.000000, 155.000000) scale(-1, 1) translate(-19.000000, -155.000000) " x="14" y="150" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(64.000000, 170.000000) scale(-1, 1) translate(-64.000000, -170.000000) " x="59" y="165" width="10" height="10"></rect>
+                <rect id="window" fill="#9F9B9B" transform="translate(49.000000, 170.000000) scale(-1, 1) translate(-49.000000, -170.000000) " x="44" y="165" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(34.000000, 170.000000) scale(-1, 1) translate(-34.000000, -170.000000) " x="29" y="165" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(19.000000, 170.000000) scale(-1, 1) translate(-19.000000, -170.000000) " x="14" y="165" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(64.000000, 185.000000) scale(-1, 1) translate(-64.000000, -185.000000) " x="59" y="180" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(49.000000, 185.000000) scale(-1, 1) translate(-49.000000, -185.000000) " x="44" y="180" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(34.000000, 185.000000) scale(-1, 1) translate(-34.000000, -185.000000) " x="29" y="180" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(19.000000, 185.000000) scale(-1, 1) translate(-19.000000, -185.000000) " x="14" y="180" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(64.000000, 201.000000) scale(-1, 1) translate(-64.000000, -201.000000) " x="59" y="196" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(49.000000, 201.000000) scale(-1, 1) translate(-49.000000, -201.000000) " x="44" y="196" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(34.000000, 201.000000) scale(-1, 1) translate(-34.000000, -201.000000) " x="29" y="196" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(19.000000, 201.000000) scale(-1, 1) translate(-19.000000, -201.000000) " x="14" y="196" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(64.000000, 216.000000) scale(-1, 1) translate(-64.000000, -216.000000) " x="59" y="211" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(49.000000, 216.000000) scale(-1, 1) translate(-49.000000, -216.000000) " x="44" y="211" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(34.000000, 216.000000) scale(-1, 1) translate(-34.000000, -216.000000) " x="29" y="211" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(19.000000, 216.000000) scale(-1, 1) translate(-19.000000, -216.000000) " x="14" y="211" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(64.000000, 231.000000) scale(-1, 1) translate(-64.000000, -231.000000) " x="59" y="226" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(49.000000, 231.000000) scale(-1, 1) translate(-49.000000, -231.000000) " x="44" y="226" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(34.000000, 231.000000) scale(-1, 1) translate(-34.000000, -231.000000) " x="29" y="226" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(19.000000, 231.000000) scale(-1, 1) translate(-19.000000, -231.000000) " x="14" y="226" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(64.000000, 247.000000) scale(-1, 1) translate(-64.000000, -247.000000) " x="59" y="242" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(49.000000, 247.000000) scale(-1, 1) translate(-49.000000, -247.000000) " x="44" y="242" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(34.000000, 247.000000) scale(-1, 1) translate(-34.000000, -247.000000) " x="29" y="242" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(19.000000, 247.000000) scale(-1, 1) translate(-19.000000, -247.000000) " x="14" y="242" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(64.000000, 262.000000) scale(-1, 1) translate(-64.000000, -262.000000) " x="59" y="257" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(49.000000, 262.000000) scale(-1, 1) translate(-49.000000, -262.000000) " x="44" y="257" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(34.000000, 262.000000) scale(-1, 1) translate(-34.000000, -262.000000) " x="29" y="257" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(19.000000, 262.000000) scale(-1, 1) translate(-19.000000, -262.000000) " x="14" y="257" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(64.000000, 277.000000) scale(-1, 1) translate(-64.000000, -277.000000) " x="59" y="272" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(49.000000, 277.000000) scale(-1, 1) translate(-49.000000, -277.000000) " x="44" y="272" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(34.000000, 277.000000) scale(-1, 1) translate(-34.000000, -277.000000) " x="29" y="272" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(19.000000, 277.000000) scale(-1, 1) translate(-19.000000, -277.000000) " x="14" y="272" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" transform="translate(64.000000, 293.000000) scale(-1, 1) translate(-64.000000, -293.000000) " x="59" y="288" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(49.000000, 293.000000) scale(-1, 1) translate(-49.000000, -293.000000) " x="44" y="288" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(34.000000, 293.000000) scale(-1, 1) translate(-34.000000, -293.000000) " x="29" y="288" width="10" height="10"></rect>
+                <rect id="window" fill="#FFFFFF" transform="translate(19.000000, 293.000000) scale(-1, 1) translate(-19.000000, -293.000000) " x="14" y="288" width="10" height="10"></rect>
+            </g>
+            <g id="building_6" transform="translate(613.000000, 173.000000)">
+                <polygon id="building" fill="#000000" points="4.46767176 57.3853383 4.46767176 26.7990347 7.89823096 26.7990347 7.89823096 13.6671208 26.7272196 13.6671208 26.7272196 3.90261754 36.769245 3.90261754 36.769245 3.41948692e-14 49.7989807 3.41948692e-14 49.7989807 3.90261754 79.7525269 3.90261754 79.7525269 13.6671208 103.322678 13.6671208 103.322678 26.7990347 107.591441 26.7990347 107.591441 57.3853383 129.563156 57.3853383 129.563156 237.161036 132.143465 237.161036 132.143465 289.115148 136 289.115148 136 308 1.20792265e-13 308 1.20792265e-13 293.105583 4.46767176 293.105583"></polygon>
+                <rect id="window" fill="#FFFFFF" x="16" y="71" width="93" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="16" y="87" width="93" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="16" y="103" width="93" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="16" y="118" width="93" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="16" y="134" width="93" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="16" y="150" width="93" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="16" y="165" width="93" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="16" y="181" width="93" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="16" y="197" width="93" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="16" y="212" width="93" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" opacity="0.7" x="16" y="228" width="93" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="16" y="244" width="93" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="16" y="259" width="93" height="9"></rect>
+                <rect id="window" fill="#FFFFFF" x="16" y="275" width="93" height="9"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
